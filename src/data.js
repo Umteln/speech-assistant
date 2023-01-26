@@ -14,7 +14,6 @@ import crayon from './img/crayons.webp';
 import read from './img/read.jpg';
 import potty from './img/potty.jpg';
 
-
 const generateID = () => {
 	const timestamp = Date.now(); //gets current time and date
 	const randomNumber = Math.random(); //gets random number
@@ -38,5 +37,5 @@ export const data = [
 	{ id: generateID(), image: scared, text: "I'm Scared" },
 	{ id: generateID(), image: potty, text: 'I Need To Go Potty' },
 	{ id: generateID(), image: read, text: 'I Want To Read A Book' },
-	{ id: generateID(), image: tired, text: 'I Want To Read A Book' },
+	{ id: generateID(), image: tired, text: "I'm Tired" },
 ];
