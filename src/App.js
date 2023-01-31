@@ -15,7 +15,7 @@ function App() {
 	return (
 		<div className='App'>
 			<h1> Speech Assistant</h1>
-			<h3>Click An Image To Get Started</h3>
+			<h3>Click An Image Below To Get Started</h3>
 			<Main
 				handleSpeech={handleSpeech}
 				setTextMessage={setText}
