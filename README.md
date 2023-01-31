@@ -7,7 +7,7 @@ https://vercel.com/umteln/speech-assistant/8R9wxVrMdTSMbN4ctJfKiHE6DvsB
 
 
 # Getting Started with Create React App
-<img width="1026" alt="Screen Shot 2023-01-31 at 4 31 22 PM" src="https://user-images.githubusercontent.com/21069909/215898710-49273d36-06b5-4cfc-a884-f90dd205761e.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
