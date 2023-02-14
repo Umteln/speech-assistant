@@ -13,7 +13,14 @@ const GridDisplay = ({ handleSpeech }) => {
 				return (
 					<Grid
 						item
-						xs={4}
+						lg={4}
+						md={6}
+						xs={8}
+						sx={{
+							justifyContent: 'center',
+							alignItems: 'center',
+							margin: 'auto',
+						}}
 						key={index}
 					>
 						<Card
